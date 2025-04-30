@@ -18,7 +18,7 @@ merge (dict1,dict2):
    return res 
 dict3=merge(dict1,dict2) 
 print(dict3) 
-
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/89c24cf1-3c6b-4608-b95e-68e1dc4734c9)
 
