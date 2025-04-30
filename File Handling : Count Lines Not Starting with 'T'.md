@@ -19,7 +19,7 @@ for lines in f:
    if lines [0] not in 'T': 
       count+=1 
 print(count)
-
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/c926554d-2a2c-4acd-a735-eef3371bc090)
 
